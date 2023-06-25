@@ -1,6 +1,6 @@
 
 ### A little about me
-![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontColor=d6ace6)
+![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontColor=d6ace6&fontAlign=70)
 
 
 ```yaml
