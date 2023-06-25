@@ -1,8 +1,6 @@
 
- Hi there 👋, I'm Sneha
-
 ### A little about me
-![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontColor=d6ace6)
+![header](https://capsule-render.vercel.app/api?text=Hey,I'm Sneha !&fontColor=d6ace6)
 ```yaml
 name: Sneha Sivakumar
 located_in: New Haven, Connecticut
