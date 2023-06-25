@@ -1,8 +1,6 @@
 
  Hi there 👋, I'm Sneha
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snehasquasher)](https://github.com/anuraghazra/github-readme-stats)
-
 ### A little about me
 ```yaml
 name: Sneha Sivakumar
