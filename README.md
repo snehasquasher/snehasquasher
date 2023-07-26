@@ -1,6 +1,5 @@
 
 ### A little about me
-![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontColor=d6ace6&width=100%)
 
 
 ```yaml
@@ -24,7 +23,6 @@ fields_of_interests:
   ]
 work_experience:
   [
-    "DevOps Solutions Architect",
     "Intern - Figma
     "Intern - Snap Inc",
     "Engineering Fellow - Kleiner Perkins ",
