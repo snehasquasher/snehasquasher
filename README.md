@@ -10,7 +10,6 @@ current_job: Product Engineer @Figma
 education:
   [
     "Self-Taught Developer and Designer",
-    "Master's in Electrical and Computer Engineering",
     "Bachelor's in Computer Science and Philosophy",
   ]
 company: Figma
